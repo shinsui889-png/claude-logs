@@ -1,0 +1,53 @@
+{
+  "completed": [
+    {
+      "mercari_id": "m47402217643",
+      "yahoo_id": "（昨日済み・詳細不明）",
+      "title": "UNDERCOVER カツラギ ZIP スリムパンツ 3 ブラック 24SS",
+      "date": "2026-04-30"
+    },
+    {
+      "mercari_id": "m85997483167",
+      "yahoo_id": "h1228422873",
+      "title": "新品A.P.C. JEAN MARTIN 28 ヴィンテージブルー ワイド",
+      "date": "2026-05-01"
+    },
+    {
+      "mercari_id": "m24341635344",
+      "yahoo_id": "s1228423246",
+      "title": "MACKINTOSH デニムパンツ 24",
+      "date": "2026-05-01"
+    },
+    {
+      "mercari_id": "m33772055588",
+      "yahoo_id": "o1228426960",
+      "title": "NAS Illmatic Tシャツ XXL",
+      "date": "2026-05-01"
+    },
+    {
+      "mercari_id": "m91006088618",
+      "yahoo_id": "j1228429713",
+      "title": "STAR WARS アロハシャツ M",
+      "date": "2026-05-01"
+    },
+    {
+      "mercari_id": "m52327236514",
+      "yahoo_id": "j1228426325",
+      "title": "龍虎和柄アロハ SUN SURF",
+      "date": "2026-05-01"
+    },
+    {
+      "mercari_id": "m18338994642",
+      "yahoo_id": "h1228421443",
+      "title": "y2k スマイルマーク ダメージデニム 32",
+      "date": "2026-05-01"
+    }
+  ],
+  "skipped_permanent": [
+    {
+      "mercari_id": "（DENHAM）",
+      "reason": "ユーザー除外指示（ブランド）"
+    }
+  ],
+  "notes": "MANGO is skipped. MANGO は変制 にして進捗してい."
+}
