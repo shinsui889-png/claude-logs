@@ -1,0 +1,12 @@
+# セッション・一時ファイル
+projects/
+*.jsonl
+*.log
+
+# 機密情報が含まれる可能性のあるファイルは除外しない
+# (APIキーはwebapp-input/Code.gsに含まれるため注意)
+webapp-input/
+
+# OS
+.DS_Store
+Thumbs.db
